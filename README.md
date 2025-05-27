@@ -1,5 +1,8 @@
 # LLM-as-a-Judge Q&A Evaluator
 
+Try it out: 👉 [qa-evaluator-ui.vercel.app](https://qa-evaluator-ui.vercel.app)
+
+
 ## Setup
 
 1. Clone the repository
