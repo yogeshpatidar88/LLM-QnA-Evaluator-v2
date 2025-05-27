@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LLM-QnA-Evaluator-v2/static/css/main.4c77ab70.css",
+    "main.js": "/LLM-QnA-Evaluator-v2/static/js/main.a19634d5.js",
+    "static/js/453.1ef608da.chunk.js": "/LLM-QnA-Evaluator-v2/static/js/453.1ef608da.chunk.js",
+    "index.html": "/LLM-QnA-Evaluator-v2/index.html",
+    "main.4c77ab70.css.map": "/LLM-QnA-Evaluator-v2/static/css/main.4c77ab70.css.map",
+    "main.a19634d5.js.map": "/LLM-QnA-Evaluator-v2/static/js/main.a19634d5.js.map",
+    "453.1ef608da.chunk.js.map": "/LLM-QnA-Evaluator-v2/static/js/453.1ef608da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c77ab70.css",
+    "static/js/main.a19634d5.js"
+  ]
+}
